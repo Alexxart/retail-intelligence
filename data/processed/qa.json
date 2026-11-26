@@ -1,0 +1,7 @@
+{
+  "raw_rows": 101911,
+  "duplicates": 80,
+  "missing_prices_repaired": 30,
+  "completed_orders": 68752,
+  "repeat_rate": 0.7895179553542543
+}
