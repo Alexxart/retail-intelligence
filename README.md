@@ -5,6 +5,8 @@
 
 `SQL` · `Python` · `Pandas` · `PostgreSQL` · `SQLite` · `Jupyter Notebook` · `Business Intelligence`
 
+**[Открыть интерактивный дашборд — Live Demo](https://alexxart.github.io/retail-intelligence/dashboard.html)**
+
 ---
 
 ## 01. О проекте
